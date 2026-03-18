@@ -21,6 +21,11 @@ This project evaluates the impact of a website redesign on key user engagement a
 3. <b>Statistical Testing:</b>
     * <b>Z-test</b> for Conversion Rate (proportions).
     * <b>Welch’s T-test</b> for Session Duration and Visited Pages (due to unequal variances and approximately normal distributions   guaranteed by the Central Limit Theorem).
+
+![bandicam 2026-03-18 08-04-24-973](https://github.com/user-attachments/assets/cd7981f3-367a-4ab6-9548-ef5d94c711a9)
+     
+  ![bandicam 2026-03-18 08-11-37-265](https://github.com/user-attachments/assets/f506626e-e199-4a41-a7bb-a142d24ecd62)
+
 4. <b>Segmentation:</b> Drilled down into age groups (<25, 25-34, 35-44, 45+) to assess consistency across demographics.
 
 ## Results & Insights
