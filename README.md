@@ -41,6 +41,7 @@ The interactive visualization was created in Tableau and includes:
 * Summary cards with test statistics (z-score, t-score).
 * Bar charts with 95% Confidence Intervals (CI).
 * Age-group breakdown for granular analysis.
+
 👉 [Link to Tableau Public Dashboard](https://public.tableau.com/views/ABtest_17711589603130/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1366" height="768" alt="Знімок екрана (117)" src="https://github.com/user-attachments/assets/5df2c757-90be-4dae-81d5-a4f1ce41163b" />
 
